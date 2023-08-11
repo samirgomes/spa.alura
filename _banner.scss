@@ -1,7 +1,7 @@
-@import '../abstract/variaveis';
+@import './variaveis';
 
 .banner {
-    background: url(../imagens/banner.jpeg) 27% center no-repeat;
+    background: url(banner.jpeg) 27% center no-repeat;
     min-height: 350px;
     background-size: cover;
     display: flex;
